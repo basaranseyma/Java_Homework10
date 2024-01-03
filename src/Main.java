@@ -54,7 +54,6 @@ public class Main {
                 System.out.println("You failed the class! :(");
             } else {
                 System.out.println("Congratulations, you passed the class!");
-                System.out.println("Your average is " + average);
-            }
+            }   System.out.println("Your average is " + average);
         }
-    }
+}
